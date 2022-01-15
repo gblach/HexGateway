@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "WS2812B_4020")(type "KiCad")(uri "${KIPRJMOD}/WS2812B_4020.pretty")(options "")(descr ""))
+  (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/USB4125-GF-A_REVA.pretty")(options "")(descr ""))
+  (lib (name "RJ45_Hanrun_HR911105A")(type "KiCad")(uri "${KIPRJMOD}/RJ45_Hanrun_HR911105A.pretty")(options "")(descr ""))
+  (lib (name "SMA_EdgeMount")(type "KiCad")(uri "${KIPRJMOD}/SMA_EdgeMount.pretty")(options "")(descr ""))
+  (lib (name "Crystals")(type "KiCad")(uri "${KIPRJMOD}/Crystals.pretty")(options "")(descr ""))
+  (lib (name "ESP32-C3")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C3.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP esp32-c3
+D https://www.espressif.com/en/products/socs/esp32-c3
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+$ENDCMP
+#
+$CMP esp32-c3-mini
+D https://www.espressif.com/en/products/socs/esp32-c3
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
+$ENDCMP
+#
+$CMP esp32-c3-wroom
+D https://www.espressif.com/en/products/socs/esp32-c3
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

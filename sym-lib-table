@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "USB-C")(type "Legacy")(uri "${KIPRJMOD}/USB4125-GF-A_REVA.lib")(options "")(descr ""))
+  (lib (name "RJ45_Hanrun_HR911105A")(type "Legacy")(uri "${KIPRJMOD}/RJ45_Hanrun_HR911105A.lib")(options "")(descr ""))
+  (lib (name "esp32-c3")(type "Legacy")(uri "${KIPRJMOD}/esp32-c3.lib")(options "")(descr ""))
+)
