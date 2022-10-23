@@ -1,8 +1,3 @@
-"Source:","/var/home/magik/collab/KiCad/HexGateway/HexGateway.kicad_sch"
-"Date:","Sat 15 Jan 2022 02:20:13 PM"
-"Tool:","Eeschema 6.0.0"
-"Generator:","/app/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py"
-"Component Count:","89"
 "Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
 "C1, C2, C17, C18, ","4","12pF, NP0, 2%","C","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","Unpolarized capacitor",""
 "C3, ","1","0.8pF, NP0, 10%","C","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","Unpolarized capacitor",""
