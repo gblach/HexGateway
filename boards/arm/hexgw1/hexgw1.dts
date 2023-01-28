@@ -75,7 +75,6 @@
 	esp32 {
 		compatible = "espressif,esp-at";
 		status = "okay";
-		label = "ESP32";
 	};
 };
 
@@ -88,7 +87,6 @@
 
 	led_strip0: ws2812@0 {
 		compatible = "worldsemi,ws2812-spi";
-		label = "WS2812@0";
 		reg = <0>;
 		spi-max-frequency = <4000000>;
 		chain-length = <2>;
@@ -115,7 +113,6 @@
 		/* Errata B7/1 specifies min 8Mhz, 20MHz max according to RM */
 		spi-max-frequency = <10000000>;
 		int-gpios = <&gpio0 12 GPIO_ACTIVE_LOW>;	/* INT */
-		label = "ENC28J60";
 	};
 };
 
