@@ -138,10 +138,6 @@
 			label = "image-1";
 			reg = <0x00073000 0x00067000>;
 		};
-		scratch_partition: partition@da000 {
-			label = "image-scratch";
-			reg = <0x000da000 0x0001e000>;
-		};
 
 		/*
 		 * The flash starting at 0x000f8000 and ending at
